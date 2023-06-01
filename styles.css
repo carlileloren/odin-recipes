@@ -1,0 +1,21 @@
+/* styles.css */
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #007708;
+    font-size: 22px;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #e9aa0a;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
