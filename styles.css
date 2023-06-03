@@ -18,7 +18,7 @@ h2 {
     color: #e29700da;
     text-align: center;
     margin-top: 40px;
-    margin-bottom: -20px;
+    margin-bottom: 0px;
 }
 
 h3 {
@@ -64,10 +64,15 @@ ol {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
+    width: 500px;
+    height: auto;
 }
 
-.flex {
-    display: inline;
-    margin: 20px;
+.icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: auto;
 }
+
